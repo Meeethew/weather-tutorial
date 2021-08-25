@@ -5,7 +5,7 @@ export const App = () => {
 
   const locationName = 'Poole';
   const units = 'metric';
-  const apiKey = 'a3674d4b59a77755d8567fbbe4a1a2f7';
+  const apiKey = '';
 
   const [weatherInfo, setweatherInfo] = useState([]);
 
